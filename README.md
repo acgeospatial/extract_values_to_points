@@ -32,5 +32,5 @@ Secondly I built the 3d plot and looped through the directory containing the ras
 
 It took 0.09 seconds to run on my computer, which is more than good enough. The point in the ‘brown’ field has a different spectral profile to the others. I hope this gives an idea of the different spectral properties of different land cover types.
 
-Do you want to find out about more of my work? Http://www.acgeospatial.co.uk
+Do you want to find out about more of my work? http://www.acgeospatial.co.uk
 
